@@ -1,0 +1,23 @@
+{
+  "name": "react-deadline",
+  "version": "1.0.0",
+  "description": "countdown timer that works with react and react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackperdue/React-Deadline.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "component",
+    "countdown",
+    "timer",
+    "moment"
+  ],
+  "author": "Zack Perdue <zack@ziggidycreative.com>",
+  "license": "ISC"
+}
