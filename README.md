@@ -23,10 +23,8 @@ render() {
 
 ## Properties
 
-| name | type | description |
-|---------------------------|
-| endsAt | date string | any date that [moment js](http://momentjs.com/) can parse |
-| onUpdate | callback | called every second. Use this to set your state to the timer values |
+- `endsAt` __string__ - any string that [moment js](http://momentjs.com/) can parse
+- `onUpdate` __function__ - called every 1000ms (1 second). Use this to set your state to the timer values.
 
 ## Dependencies
 - [react timer mixin](https://github.com/reactjs/react-timer-mixin)
