@@ -19,5 +19,10 @@
     "moment"
   ],
   "author": "Zack Perdue <zack@ziggidycreative.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.12.x",
+    "react-native": "^0.21.x",
+    "react-timer-mixin": "^0.13.x"
+  }
 }
