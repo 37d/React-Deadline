@@ -1,6 +1,6 @@
 {
   "name": "react-deadline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "countdown timer that works with react and react native",
   "main": "index.js",
   "scripts": {
