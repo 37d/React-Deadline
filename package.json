@@ -22,7 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.12.x",
-    "react-native": "^0.21.x",
+    "react": "^0.14.8",
     "react-timer-mixin": "^0.13.x"
   }
 }
